@@ -1,0 +1,11 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    text-decoration: underline;
+    color: #2A77AE;
+    margin-top: 12%;
+    background-image: url(https://image.freepik.com/free-vector/dreamy-soft-clouds-background-with-glowing-sun_1017-23281.jpg);
+    background-position: center;
+    background-size: cover;
+}

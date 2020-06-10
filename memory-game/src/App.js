@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from './components/Header';
 import characters from './characters.json';
 import CharacterCard from './components/CharacterCard';
 import Title from './components/Title';
