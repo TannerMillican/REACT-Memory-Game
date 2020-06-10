@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function FriendCard({name, image, occupation}) {
+function FriendCard({name, image}) {
     return (
         <div className="card">
             <div className="img-container">
@@ -14,9 +14,6 @@ function FriendCard({name, image, occupation}) {
                 <ul>
                     <li>
                         <strong>Name:</strong> {name}
-                    </li>
-                    <li>
-                        <strong>Occupation:</strong> {occupation}
                     </li>
                 </ul>
             </div>
