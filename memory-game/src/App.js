@@ -17,17 +17,6 @@ class App extends Component {
           score: 0
         }
       };
-      
-      handleClick = id => {
-        // const thisCharactersClicks = this.state.characters.filter(character => character.id === id);
-
-        // console.log(this.state)
-
-        // switch(thisCharactersClicks) {
-        //   case ">0":
-        //     this.setState({ score: this.state.score + 1 })
-        // }
-      };
 
       // handleClick = () => {
       //   console.log(this.state)
